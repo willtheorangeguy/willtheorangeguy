@@ -1,5 +1,5 @@
 <h1 align="center">Hi!/¡Hola!/Hoi!/Salut! 👋, I'm <a href="https://github.com/willtheorangeguy">@willtheorangeguy</a></h1>
-<h3 align="center">I build small, fun, and powerful programs in Python and reusable web templates! I also like dogs.</h3>
+<h3 align="center">An avid Python and web developer, travelling, coding, and reading all over the world!</h3>
 
 <p align="center">Check out some of my GitHub stats below, or scroll down a little further to see the repositories that I am most proud of. If you want to get in touch, don't hesitate to open a <a href="https://docs.github.com/en/pull-requests">pull request</a>, <a href="https://docs.github.com/en/issues">issue</a> or <a href="https://docs.github.com/en/discussions">discussion</a> on <a href="https://github.com/willtheorangeguy?tab=repositories">any of my projects</a>! Happy open sourcing!</p>
 
